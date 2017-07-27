@@ -1,0 +1,3 @@
+TOKEN = 'Bot Token'
+
+PREFIX = "&"
